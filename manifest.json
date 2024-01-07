@@ -1,0 +1,8 @@
+{
+  "name": "Meta Master",
+  "id": "1325618140602565979",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "editorType": ["figma"]
+}
